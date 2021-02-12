@@ -1,0 +1,19 @@
+#results{
+ font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+}
+table {
+  border-collapse: collapse;
+  text-align: left;
+}
+th {
+  font-weight: normal;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 8px;
+}
+td {
+  padding: 9px 8px;
+  transition: .3s linear;
+  border-bottom: 1px solid #ccc;
+  padding: 9px 8px;
+  transition: .3s linear;
+}
